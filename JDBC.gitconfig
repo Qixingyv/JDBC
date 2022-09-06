@@ -1,0 +1,5 @@
+[user]
+    name = Paolua
+    email = 2071187542@qq.com
+[core]
+    excludesfile = "C:/WorkSpace/Java/JDBC/git.ignore"
