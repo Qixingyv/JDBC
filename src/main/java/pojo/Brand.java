@@ -76,5 +76,5 @@ public class Brand {
                 ", status=" + status +
                 '}';
     }
-
+    //该注释位于hot-fix
 }
