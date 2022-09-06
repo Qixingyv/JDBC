@@ -83,4 +83,5 @@ public class Brand {
     //此注释为了测试冲突分支，在hot-fix添加
 
     //此注释用来测试push到GitHub
+    //此注释用来测试pull到idea
 }
