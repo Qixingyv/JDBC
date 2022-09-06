@@ -78,4 +78,6 @@ public class Brand {
     }
     //该注释位于hot-fix
     //第二个注释依旧位于hot-fix
+
+    //此注释用于测试冲突分支，在master中添加
 }
